@@ -1,0 +1,10 @@
+@model OosModel
+
+@if (Model.OutOfStock)
+{
+    <div class="oos-content">
+        <div class="oos-label">
+            @T("Plugins.Widgets.Oos.OutOfStock")
+        </div>
+    </div>
+}

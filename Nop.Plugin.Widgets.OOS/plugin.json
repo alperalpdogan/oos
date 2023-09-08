@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Out Of Stock",
+  "SystemName": "Widgets.Oos",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "Alper Alpdoğan",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.Oos.dll",
+  "Description": "This plugin will show if the product is out of stock."
+}

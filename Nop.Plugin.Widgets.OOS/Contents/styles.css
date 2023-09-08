@@ -1,0 +1,27 @@
+.product-item .oos-content,
+.product-details-page .oos-content {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: 35%;
+  text-transform: uppercase;
+}
+
+.oos-content .oos-label {
+  padding: 15px 25px;
+  background-color: #ddd;
+  color: #333;
+  text-align: center;
+}
+
+.product-item .oos-content {
+  z-index: 999;
+}
+.product-details-page .oos-content {
+  z-index: 10000;
+}
+
+.product-essential .gallery,
+.product-essential .picture {
+  position: relative;
+}
